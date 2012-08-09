@@ -1,4 +1,0 @@
-category: Perl
-requires: perl
-sdesc: "Perl module for parsing and evaluating XPath statements"
-ldesc: "Perl module for parsing and evaluating XPath statements"
