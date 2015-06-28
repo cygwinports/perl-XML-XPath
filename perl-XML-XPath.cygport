@@ -1,0 +1,12 @@
+CPAN_AUTHOR=msergeant
+inherit perl
+
+NAME="perl-XML-XPath"
+VERSION=1.13
+RELEASE=4
+CATEGORY="Perl"
+SUMMARY="Perl distribution XML-XPath"
+DESCRIPTION="This module aims to comply exactly to the XPath specification and
+yet allow extensions to be added in the form of functions."
+
+ARCH=noarch
